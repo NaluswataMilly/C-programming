@@ -1,0 +1,15 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("FOR LOOP ");
+        Console.WriteLine("----------------");
+
+        for (int i = 1; i <= 10; i++)
+        {
+            Console.WriteLine(i);
+        }
+    }
+}
